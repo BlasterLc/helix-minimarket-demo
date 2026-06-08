@@ -4,6 +4,9 @@ import Problem    from '@/components/Problem'
 import HowItWorks from '@/components/HowItWorks'
 import ChatDemo   from '@/components/ChatDemo'
 import Dashboard  from '@/components/Dashboard'
+import Features   from '@/components/Features'
+import Team       from '@/components/Team'
+import CTA        from '@/components/CTA'
 
 export default function Home() {
   return (
@@ -14,6 +17,9 @@ export default function Home() {
       <HowItWorks />
       <ChatDemo />
       <Dashboard />
+      <Features />
+      <Team />
+      <CTA />
     </main>
   )
 }
