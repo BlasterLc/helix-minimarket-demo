@@ -1,4 +1,8 @@
 .superpowers/
+docs/
+flujosN8n/
+__tests__/
+jest.config.ts
 
 # Next.js
 /.next/
