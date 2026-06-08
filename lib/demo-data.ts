@@ -1,14 +1,13 @@
-// ⚠️  Actualizar TEAM_MEMBERS con nombres y roles reales del equipo
 export const TEAM_MEMBERS = [
   { initial: 'M', name: 'Matías',  role: 'Desarrollo & Arquitectura' },
-  { initial: 'F', name: 'Felipe',  role: 'Automatización & IA' },
-  { initial: 'C', name: 'Camila',  role: 'Comercial & Estrategia' },
+  { initial: 'A', name: 'Augusto',  role: 'Automatización & IA' },
+  { initial: 'V', name: 'Vicente',  role: 'Comercial & Estrategia' },
 ]
 
-// ⚠️  Actualizar con contacto real antes de publicar
+
 export const CONTACT = {
-  whatsapp: '+56900000000',
-  email:    'contacto@helixteam.cl',
+  whatsapp: '+569 1234 5678',
+  email:    'helixcontacto@gmail.com',
 }
 
 export const DASHBOARD_METRICS = {

@@ -7,7 +7,7 @@ export default function Team() {
         <p className="text-helix-green text-sm font-semibold uppercase tracking-wider mb-4 text-center">
           El equipo
         </p>
-        <h2 className="text-3xl font-bold text-helix-text text-center mb-4">Helix Team</h2>
+        <h2 className="text-3xl font-bold text-helix-text text-center mb-4">Helix</h2>
         <p className="text-helix-muted text-center mb-16 max-w-xl mx-auto">
           Un equipo pequeño y enfocado en construir tecnología que realmente funciona para negocios reales.
         </p>

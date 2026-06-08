@@ -6,7 +6,7 @@ export default function Nav() {
           <div className="w-8 h-8 rounded-lg bg-helix-green flex items-center justify-center">
             <span className="text-helix-bg font-bold text-sm">H</span>
           </div>
-          <span className="font-bold text-helix-text text-lg">Helix</span>
+          <span className="font-bold text-helix-text text-lg">Helix Minimarket</span>
           <span className="text-helix-dim text-sm hidden sm:block">por Helix Team</span>
         </div>
         <a
